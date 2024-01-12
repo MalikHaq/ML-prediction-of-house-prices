@@ -34,6 +34,16 @@ The primary goals of this project include:
 
 This repository contains code, data, and insights derived from the house price prediction project. It showcases the application of machine learning to real estate data, aiming to predict house prices effectively. Explore the code, analysis, and findings obtained from this project.
 
+
+## Sample Outputs
+
+### Missing Values
+
+![image](https://github.com/MalikHaq/ML-prediction-of-house-prices/assets/150603131/06831e37-1ccf-4206-bb0a-37cd8375fcf6)
+
+
+
+
 ## How to Use
 
 - Clone this repository:
