@@ -42,6 +42,33 @@ This repository contains code, data, and insights derived from the house price p
 ![image](https://github.com/MalikHaq/ML-prediction-of-house-prices/assets/150603131/06831e37-1ccf-4206-bb0a-37cd8375fcf6)
 
 
+### Outliers
+
+![image](https://github.com/MalikHaq/ML-prediction-of-house-prices/assets/150603131/02b67f2e-9f7f-4c69-a6f3-5548b2321985)
+
+![image](https://github.com/MalikHaq/ML-prediction-of-house-prices/assets/150603131/09d02e2d-e9e6-4c9f-87f9-2455a98cd09e)
+
+
+
+### Correlation
+
+![image](https://github.com/MalikHaq/ML-prediction-of-house-prices/assets/150603131/4942d89e-1300-4c82-8358-c73f6b5fbc54)
+
+
+### Distribution for the dependent variable by different categorical variables
+
+![image](https://github.com/MalikHaq/ML-prediction-of-house-prices/assets/150603131/3d5a35d0-b802-4b43-90ac-fdaf8ae57918)
+
+### Model Results
+
+![image](https://github.com/MalikHaq/ML-prediction-of-house-prices/assets/150603131/bd3f3423-a46b-4c45-a364-d204d62eaa0b)
+
+![image](https://github.com/MalikHaq/ML-prediction-of-house-prices/assets/150603131/1f817e1e-87c7-4aeb-ae24-d73813d6f964)
+
+
+### Predictor importance
+
+![image](https://github.com/MalikHaq/ML-prediction-of-house-prices/assets/150603131/7f6ba4cf-2aab-44e5-92d5-c1df645d7e7b)
 
 
 ## How to Use
